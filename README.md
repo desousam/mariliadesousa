@@ -6,7 +6,7 @@ Me chamo Marilia Sousa, apaixonada por tecnologia, em formação no Curso Técni
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mariliamaria-sousa/">
+<a href="https://www.linkedin.com/in/mariliaa-sousa/">
     <img
         alt="LinkedIn"
         title="LinkedIn"
